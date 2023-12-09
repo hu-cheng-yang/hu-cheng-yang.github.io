@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Shanghai Jiao Tong University</a>. PhD Candidate.
+subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a> <a href='https://dmcv.sjtu.edu.cn/'>DMCV Lab</a> . PhD Candidate.
 
 profile:
   align: right
