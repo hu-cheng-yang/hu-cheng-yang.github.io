@@ -13,12 +13,19 @@ profile:
 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hu Chengyang (胡澄洋), PhD candidate in [DMCV lab](https://dmcv.sjtu.edu.cn/) of Shanghai Jiao Tong University. My research interest is focus on Face Anti-spoofing, AIGC and vision foundation models.
+Hu Chengyang (胡澄洋), PhD candidate in [DMCV lab](https://dmcv.sjtu.edu.cn/) of Shanghai Jiao Tong University.
 
 In this website, I present the recent works and projects, mostly related to computer vision and artificial intelligence.
 
+My research interests are:
+* Computer Vision
+* Face Anti-spoofing
+* AIGC
+* Foundation Model
+* Anomaly Segmentation
+* Video Representation Learning
