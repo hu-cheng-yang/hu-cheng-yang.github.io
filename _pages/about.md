@@ -18,12 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hu Chengyang (胡澄洋), PhD candidate in [DMCV lab](https://dmcv.sjtu.edu.cn/) of Shanghai Jiao Tong University.
+Hu Chengyang (胡澄洋), is a 3rd-year Ph.D. candidate at the [DMCV lab](https://dmcv.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I earned my Bachelor's degree in Computer Science and Technology (Young Gifted Class, 西安交通大学少年班) from [Xi'an Jiao Tong University](http://en.xjtu.edu.cn/) in 2021.
 
-In this website, I present the recent works and projects, mostly related to computer vision and artificial intelligence.
+I am researching on Computer Vision, and my research interests encompass:
 
-My research interests are:
-* Computer Vision
 * Face Anti-spoofing
 * AIGC
 * Foundation Model
