@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Latex package for standard translation of AI technical term (标准AI专业名词翻译Latex包)
+title: Latex package for standard translation of AI technical term
+description: 标准AI专业名词翻译Latex包
 img: assets/img/LaTeX_logo.png
 importance: 1
 category: tools
