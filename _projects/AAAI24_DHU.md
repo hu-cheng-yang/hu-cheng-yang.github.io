@@ -4,6 +4,7 @@ title: DHU
 description: Domain-Hallucinated Updating for Multi-Domain Face Anti-spoofing (AAAI-2024)
 img: assets/img/AAAI24_DHU/fig1.png
 importance: 1
+category: research
 ---
 
 
