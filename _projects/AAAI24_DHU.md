@@ -52,7 +52,7 @@ The overall structure of proposed Domain-Hallucinated Updating (DHU) framework. 
 <img src="/assets/img/AAAI24_DHU/result.png" height=200>
 </div>
 
-The performance reported in TPR@FPR=0.5\%. The model first trains on the source dataset (A) and then train on other datasets (B-E). avg indicates the average performance on two datasets. Bolded scores indicate the best performance. $\dag$: We re-implement FAS-wrapper with ResNet-18 by inserting stacked CNN models as Discriminator into every ResNet layer.
+The performance reported in TPR@FPR=0.5%. The model first trains on the source dataset (A) and then train on other datasets (B-E). avg indicates the average performance on two datasets. Bolded scores indicate the best performance. $\dag$: We re-implement FAS-wrapper with ResNet-18 by inserting stacked CNN models as Discriminator into every ResNet layer.
 
 <div align=center> 
 
@@ -70,7 +70,7 @@ Bolded scores show the best performance. Underlined scores show the second best 
 
 </div>
 
-The performance on unseen domains in TPR@FPR=0.5\% and ACER. The model first trains sequentially with datasets A and B and tests on C-E. The result in Serial, and Parallel Res-Adapter is the average result with different adapters. 
+The performance on unseen domains in TPR@FPR=0.5% and ACER. The model first trains sequentially with datasets A and B and tests on C-E. The result in Serial, and Parallel Res-Adapter is the average result with different adapters. 
 
 ## Visualization
 
