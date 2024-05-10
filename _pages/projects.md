@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This is the projects list of my work, including my research projects and my tool projects.
+description: This is the projects list of my research works.
 nav: true
 nav_order: 2
-display_categories: [research, tools]
+display_categories: [research]
 horizontal: false
 ---
 
