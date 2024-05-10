@@ -37,7 +37,10 @@ Multi-Domain Face Anti-Spoofing (MD-FAS) is a practical setting that aims to upd
 
 ## Method
 
-![Framework](/assets/img/AAAI24_DHU/framework.png)
+<!-- ![Framework](/assets/img/AAAI24_DHU/framework.png) -->
+<div align=center> 
+<img src="/assets/img/AAAI24_DHU/framework.png" height=250>
+</div>
 The overall structure of proposed Domain-Hallucinated Updating (DHU) framework. First, we propose Domain Information Explorer to learn effective domain information in shallow layers. Also, we first propose Domain Information Hallucination module to hallucinate the previous domain feature to prevent the forgetting issue. After obtaining the pseudo-previous and new domain feature, we design Hallucinated Features Joint Learning to align the real input features from sample-based view and distribution-based view for generalizability.
 
 <!-- GETTING STARTED -->
