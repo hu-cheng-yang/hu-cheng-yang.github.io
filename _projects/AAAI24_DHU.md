@@ -52,7 +52,7 @@ The overall structure of proposed Domain-Hallucinated Updating (DHU) framework. 
 <img src="/assets/img/AAAI24_DHU/result.png" height=200>
 </div>
 
-The performance reported in TPR@FPR=0.5%. The model first trains on the source dataset (A) and then train on other datasets (B-E). avg indicates the average performance on two datasets. Bolded scores indicate the best performance. $\dag$: We re-implement FAS-wrapper with ResNet-18 by inserting stacked CNN models as Discriminator into every ResNet layer.
+The performance reported in TPR@FPR=0.5%. The model first trains on the source dataset (A) and then train on other datasets (B-E). avg indicates the average performance on two datasets. Bolded scores indicate the best performance. \(\dag\): We re-implement FAS-wrapper with ResNet-18 by inserting stacked CNN models as Discriminator into every ResNet layer.
 
 <div align=center> 
 
@@ -81,11 +81,11 @@ The performance on unseen domains in TPR@FPR=0.5% and ACER. The model first trai
 
 </div>
 
-* **Left**: The t-SNE visualization of the feature from different layers. (a) shows the previous, hallucinated previous, and new feature in the shallow layer ($f_2$) (b) shows the previous and new feature in the deep layer ($f_4$).
+* **Left**: The t-SNE visualization of the feature from different layers. (a) shows the previous, hallucinated previous, and new feature in the shallow layer (\(f_2\)) (b) shows the previous and new feature in the deep layer (\(f_4\)).
 * **Right**: The t-SNE visualization of the previous domain information distribution. The right pictures show examples from different domain information groups.
 
 ## Conclusion
-In this paper, we propose a novel Domain-Hallucinated Updating (DHU) framework to address the challenging task of Multi-domain Face Anti-Spoofing (MD-FAS). First, we introduce Domain Information Explorer in the previous training stage that learns representative domain information buffer $\mathcal{B}$. Then, Domain Information Hallucination module is designed in the new training stage to generate pseudo-previous domain information to prevent forgetting. Additionally, we devise Hallucinated Features Joint Learning module to utilize pseudo-previous and new domain features, which aligns real samples' features from sample-based and distribution-based views to improve model's generalizability. The experimental results and visualizations demonstrate that the proposed method outperforms other competitors.
+In this paper, we propose a novel Domain-Hallucinated Updating (DHU) framework to address the challenging task of Multi-domain Face Anti-Spoofing (MD-FAS). First, we introduce Domain Information Explorer in the previous training stage that learns representative domain information buffer \(\mathcal{B}\). Then, Domain Information Hallucination module is designed in the new training stage to generate pseudo-previous domain information to prevent forgetting. Additionally, we devise Hallucinated Features Joint Learning module to utilize pseudo-previous and new domain features, which aligns real samples' features from sample-based and distribution-based views to improve model's generalizability. The experimental results and visualizations demonstrate that the proposed method outperforms other competitors.
 
 
 <!-- CONTRIBUTING -->
