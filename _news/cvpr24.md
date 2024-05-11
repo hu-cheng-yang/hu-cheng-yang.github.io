@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted in CVPR2024!  :fireworks:
+One paper was accepted in **CVPR2024 (Highlight)**!  :fireworks:
