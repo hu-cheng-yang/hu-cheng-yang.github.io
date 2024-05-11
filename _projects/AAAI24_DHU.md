@@ -107,7 +107,7 @@ If you find our work is useful in your reasearch, please consider citing:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-Our work is based on the following opensource project。 We thank their authors for making the source code publically available.
+Our work is based on the following opensource project. We thank their authors for making the source code publically available.
 * [mammoth](https://github.com/aimagelab/mammoth)
 * [Multi-domain Learning FAS](https://github.com/CHELSEA234/Multi-domain-learning-FAS/tree/main/source_SiW_Mv2)
 
