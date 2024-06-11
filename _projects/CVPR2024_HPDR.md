@@ -27,7 +27,7 @@ category: research
     <!-- <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Code</a> -->
     Code (Release Soon)
     ·
-    <a href="https://hu-cheng-yang.github.io/projects/CVPR24_HPDR/">Project Page</a>
+    <a href="https://hu-cheng-yang.github.io/projects/CVPR2024_HPDR/">Project Page</a>
     ·
     <a href="https://mp.weixin.qq.com/s/me7zOeEhBfpmLamuqU-39Q">中文解读</a>
   </p>
