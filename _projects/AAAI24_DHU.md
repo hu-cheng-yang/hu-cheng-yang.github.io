@@ -26,9 +26,10 @@ category: research
     <br />
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27992">Paper</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Code</a>
+    <!-- <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Code</a> -->
+    Code (Release Soon)
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Project Page</a>
+    <a href="https://hu-cheng-yang.github.io/projects/AAAI24_DHU/">Project Page</a>
     ·
     <a href="https://mp.weixin.qq.com/s/MAHtzbwfte0t1Th6thHaEA">中文解读</a>
   </p>
