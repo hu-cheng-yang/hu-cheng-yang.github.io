@@ -26,8 +26,8 @@ category: research
     <br />
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27992">Paper</a>
     ·
-    <!-- <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Code</a> -->
-    Code (Release Soon)
+    <a href="https://github.com/hu-cheng-yang/CVPR2024-HPDR?tab=readme-ov-file">Code</a>
+    <!-- Code (Release Soon) -->
     ·
     <a href="https://hu-cheng-yang.github.io/projects/AAAI24_DHU/">Project Page</a>
     ·

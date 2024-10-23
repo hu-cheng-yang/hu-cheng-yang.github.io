@@ -24,8 +24,8 @@ category: research
     <br />
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Hu_Rethinking_Generalizable_Face_Anti-spoofing_via_Hierarchical_Prototype-guided_Distribution_Refinement_in_CVPR_2024_paper.html">Paper</a>
     ·
-    <!-- <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Code</a> -->
-    Code (Release Soon)
+    <a href="https://github.com/hu-cheng-yang/CVPR2024-HPDR">Code</a>
+    <!-- Code (Release Soon) -->
     ·
     <a href="https://hu-cheng-yang.github.io/projects/CVPR2024_HPDR/">Project Page</a>
     ·
