@@ -27,3 +27,5 @@ I am researching on Computer Vision, and my research interests encompass:
 * Foundation Model
 * Anomaly Segmentation
 * Video Representation Learning
+
+I am looking for the collaborators (undergraduate is OK) in **Deepfake Detection** and **Video-Text Dataset Construction**, if you are interested in these topics, please contact me! :)
