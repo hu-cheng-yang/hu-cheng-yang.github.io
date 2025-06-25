@@ -28,4 +28,6 @@ I am researching on Computer Vision, and my research interests encompass:
 * Anomaly Segmentation
 * Video Representation Learning
 
-I am looking for the collaborators (undergraduate is OK) in **Deepfake Detection** and **Video-Text Dataset Construction**, if you are interested in these topics, please contact me! :)
+<!-- I am looking for the collaborators (undergraduate is OK) in **Deepfake Detection** and **Video-Text Dataset Construction**, if you are interested in these topics, please contact me! :) -->
+
+我将于2026年暑期毕业并且正在寻找工作机会，如您对我的工作感兴趣，欢迎与我交流！我的个人微信是：Hcy1243674714
